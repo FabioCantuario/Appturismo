@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666202395699",
+    "project_id": "appturismo-4f576",
+    "storage_bucket": "appturismo-4f576.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666202395699:android:4ab74835fe1e1e0155ff46",
+        "android_client_info": {
+          "package_name": "br.com.teste.appturismo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe0T2gDU1DlUUwAkAAnnXfPIZ6Ewh5Sdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
